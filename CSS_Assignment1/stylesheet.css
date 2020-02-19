@@ -1,0 +1,92 @@
+﻿*{
+    margin:0px;
+    padding : 0px;
+    background-color : #D8DA3D;
+}
+
+
+h1{
+margin-top:20px;
+margin-bottom:30px;
+color:#80007E;
+font-family:Arial, Helvetica, sans-serif;
+text-align: left;
+}
+
+p{
+color:#80007E;
+text-align: left;
+}
+
+#container1{
+    margin-top : 30px;
+    width : 16%;
+    height : 100%;
+    float : left;
+}
+
+.orange{
+   margin-left:10px;
+   margin-bottom: 8px;
+   border-right:20px solid #FF7F00;
+
+}
+.blue{
+  margin-left:10px;
+  margin-bottom:8px;
+  border-right:20px solid #0000FF;
+}
+.sidepara{
+    background-color:white;
+    padding : 5px;
+}
+
+.content{
+    width : 80%;
+    height : 100%;
+    float : right;
+}
+
+#noContent{
+    width:80%;
+    border:1px;
+    border-bottom-style:dotted;
+    border-bottom-color: #80007E;
+    width:auto;
+    height:60px;
+    margin-bottom:20px;
+
+}
+
+#box1{
+padding:5px;
+width:80%;
+border:1px;
+text-align: left;
+margin-bottom:20px;
+border-style: dashed;
+border-color:black;
+}
+
+#box2{
+padding:5px;
+width:80%;
+border:1px;
+text-align:right;
+border-style:dashed;
+border-color:red;
+margin-bottom:20px;
+}
+
+#box3{
+padding:5px;
+width:80%;
+border:1px;
+margin-bottom:20px;
+text-align:center;
+border-style: dotted;
+border-color: #80007E;
+}
+
+#author{
+text-align:left;}
